@@ -1,7 +1,7 @@
 const run = require('./lib/run')
 const appimagetool = require('./lib/appimagetool')
 
-module.exports = async function createAppImage(source, destination, opts = {}) {
+exports.createAppImage = async function createAppImage(source, destination, opts = {}) {
   if (typeof destination === 'object' && destination !== null) {
     opts = destination
     destination = null
