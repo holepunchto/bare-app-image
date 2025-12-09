@@ -1,6 +1,6 @@
 {
   "name": "bare-app-image",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "AppImage packaging tools for Bare",
   "exports": {
     "./package": "./package.json",
