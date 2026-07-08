@@ -52,11 +52,11 @@
   "dependencies": {
     "bare-fs": "^4.5.1",
     "bare-path": "^3.0.0",
-    "bare-subprocess": "^5.1.5",
+    "bare-subprocess": "^6.1.0",
     "require-asset": "^1.1.0"
   },
   "devDependencies": {
-    "brittle": "^3.18.0",
+    "brittle": "^4.1.0",
     "lunte": "^1.8.3",
     "prettier": "^3.4.1",
     "prettier-config-holepunch": "^2.0.0"
